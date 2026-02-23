@@ -5,5 +5,5 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-   base: '/movingcar_gitHub_uploaded/'
+   base: '/Move_Car_gitHub/'
 })
